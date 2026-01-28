@@ -1,11 +1,11 @@
-<!-- # Terms of Service – JobPiFinder -->
+<!-- # Terms of Service – FreshPiOils -->
 
-By using JobPiFinder, you agree to:
+By using FreshPiOils, you agree to:
 - Use the platform legally
 - Respect clients and providers
 - Accept escrow-based payments
 
-JobPiFinder is a marketplace, not the service provider.
+FreshPiOils is a marketplace, not the service provider.
 
 Contact:
 Email: mandela.fanuel.1@gmail.com
